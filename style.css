@@ -1,4 +1,14 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-color: black;
+}
+
+.box {
+    padding: 25px;
+    height: 300px;
+    width: 700px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #ffffff;
 }
